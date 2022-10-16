@@ -1,13 +1,13 @@
-# Project Dashboard
+# Dev Agency
 ![GitHub](https://img.shields.io/github/license/HugoGomes7/dev-agency)
 
-# Sobre o projeto
+# About the project
 
 https://dev-agency.netlify.app
 
-Dev Agency é um website responsivo de uma agência que foi desenvolvido com HTML e CSS puro.
+Dev Agency is a responsive agency website that was developed with pure HTML and CSS.
 
-Consiste em apresentar um layout responsivo para todos os tamanhos de tela.
+It consists of presenting a responsive layout for all screen sizes.
 
 ## Layout web 
 ![Web 1](https://github.com/HugoGomes7/dev-agency/blob/main/assets/home%20screen.jpg)
@@ -20,21 +20,21 @@ Consiste em apresentar um layout responsivo para todos os tamanhos de tela.
 ## Layout (iPad Air)
 ![iPad](https://github.com/HugoGomes7/dev-agency/blob/main/assets/ipad%20version.jpg)
 
-# Tecnologias utilizadas
+# Technologies used
 ## Frontend
 - HTML / CSS / JS / TypeScript
 
-## Implantação em produção
+## Deployment in production
 - Frontend: Netlify
 
-# Como executar o projeto
+# How to run the project
 ## clonar repositório
 git clone https://github.com/HugoGomes7/dev-agency
 
-## Abrir pasta do projeto no VSCode
+## Open project folder in VSCode
 Run no Go Live Server 
 
-# Autor
+# Author
 Hugo Rômulo Miranda Gomes
 
 https://www.linkedin.com/in/hugo-gomes-889658211/

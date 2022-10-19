@@ -22,7 +22,7 @@ It consists of presenting a responsive layout for all screen sizes.
 
 # Technologies used
 ## Frontend
-- HTML / CSS / JS / TypeScript
+- HTML / CSS
 
 ## Deployment in production
 - Frontend: Netlify
@@ -32,7 +32,7 @@ It consists of presenting a responsive layout for all screen sizes.
 git clone https://github.com/HugoGomes7/dev-agency
 
 ## Open project folder in VSCode
-Run no Go Live Server 
+Run on Go Live Server 
 
 # Author
 Hugo Rômulo Miranda Gomes
